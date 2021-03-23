@@ -13,3 +13,7 @@ def comer():
 
 def despedir():
     print("Adios")
+
+
+def estudiar():
+    print("Estudiando")
