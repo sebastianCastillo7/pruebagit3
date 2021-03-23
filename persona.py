@@ -1,7 +1,6 @@
 
-
-def llorar():
-    print("Llorando")
+def lavar():
+    print("Lavando")
 
 
 def saludar():
