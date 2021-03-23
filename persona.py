@@ -1,6 +1,6 @@
 
 def saludar():
-    print("Hola")
+    print("Bienvenido a todos")
 
 
 def caminar():
