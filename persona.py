@@ -25,3 +25,7 @@ def viajar():
 
 def dibujar():
     print("Dibujando")
+
+
+def orinar():
+    print("Orinar")
