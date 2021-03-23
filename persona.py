@@ -33,3 +33,7 @@ def dormir():
 
 def orinar():
     print("Orinar")
+
+
+def morir():
+    print("Muerte")
