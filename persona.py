@@ -7,5 +7,9 @@ def caminar():
     print("Hombre caminando")
 
 
+def comer():
+    print("Hombre comiendo")
+
+
 def despedir():
     print("Adios")
