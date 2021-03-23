@@ -1,4 +1,7 @@
 
+def lavar():
+    print("Lavando")
+
 def saludar():
     print("Bienvenido a todos")
 
