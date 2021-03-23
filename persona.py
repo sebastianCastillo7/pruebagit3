@@ -7,13 +7,17 @@ def caminar():
     print("Hombre caminando")
 
 
-def comer():
-    print("Hombre comiendo")
-
-
 def despedir():
     print("Adios")
 
 
 def estudiar():
     print("Estudiando")
+
+
+def vender():
+    print("Vendiendo")
+
+
+def viajar():
+    print("Viajando")
