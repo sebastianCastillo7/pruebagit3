@@ -29,3 +29,7 @@ def dibujar():
 
 def dormir():
     print("Durmiendo")
+
+
+def orinar():
+    print("Orinar")
