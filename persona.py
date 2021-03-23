@@ -1,4 +1,9 @@
 
+
+def llorar():
+    print("Llorando")
+
+
 def saludar():
     print("Bienvenido a todos")
 
