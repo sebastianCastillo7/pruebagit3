@@ -21,3 +21,7 @@ def vender():
 
 def viajar():
     print("Viajando")
+
+
+def dibujar():
+    print("Dibujando")
