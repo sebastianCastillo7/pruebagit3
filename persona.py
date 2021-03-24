@@ -1,4 +1,6 @@
 
+
+
 def lavar():
     print("Lavando")
 
@@ -41,3 +43,7 @@ def orinar():
 
 def morir():
     print("Muerte")
+
+def manejar_sebastian():
+	#agregado por sebastian
+	print("Manejando")
