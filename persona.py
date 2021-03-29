@@ -24,7 +24,7 @@ def viajar():
 
 
 def dibujar():
-    print("Dibujando")
+    print("Dibujando ando")
 
 
 def dormir():
@@ -33,3 +33,8 @@ def dormir():
 
 def orinar():
     print("Orinar")
+def leer_seb():
+	print("Leyendo");
+
+def deber():
+	pass
