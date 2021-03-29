@@ -38,3 +38,6 @@ def leer_seb():
 
 def deber():
 	pass
+
+def robar():
+	print("Robando")
