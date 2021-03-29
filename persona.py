@@ -45,7 +45,6 @@ def morir():
 
 
 def manejar_sebastian():
-    # agregado por sebastian
     print("Manejando")
 
 
@@ -59,3 +58,7 @@ def deber():
 
 def robar():
     print("Robando")
+
+
+def estirar_seb():
+    print("Estirando")
