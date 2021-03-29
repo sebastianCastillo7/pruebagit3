@@ -1,6 +1,5 @@
 
 
-
 def lavar():
     print("Lavando")
 
@@ -30,7 +29,7 @@ def viajar():
 
 
 def dibujar():
-    print("Dibujando")
+    print("Dibujando ando")
 
 
 def dormir():
@@ -44,6 +43,19 @@ def orinar():
 def morir():
     print("Muerte")
 
+
 def manejar_sebastian():
-	#agregado por sebastian
-	print("Manejando")
+    # agregado por sebastian
+    print("Manejando")
+
+
+def leer_seb():
+    print("Leyendo")
+
+
+def deber():
+    pass
+
+
+def robar():
+    print("Robando")
