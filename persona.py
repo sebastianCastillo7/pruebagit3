@@ -47,3 +47,5 @@ def morir():
 def manejar_sebastian():
 	#agregado por sebastian
 	print("Manejando")
+def estirar_seb():
+	print("Estirando")
