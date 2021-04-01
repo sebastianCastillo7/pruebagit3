@@ -36,29 +36,25 @@ def dormir():
     print("Durmiendo")
 
 
-def orinar():
-    print("Orinar")
-
-
 def morir():
     print("Muerte")
 
 
-def manejar_sebastian():
+def manejar():
     print("Manejando")
 
 
-def leer_seb():
+def leer():
     print("Leyendo")
 
 
 def deber():
-    pass
+    print("Debiendo")
 
 
 def robar():
     print("Robando")
 
 
-def estirar_seb():
+def estirar():
     print("Estirando")
