@@ -40,8 +40,8 @@ def morir():
     print("Muerte")
 
 
-def manejar_sebastian():
-    pass
+def manejar():
+    print("Manejando")
 
 
 def leer():
@@ -49,7 +49,7 @@ def leer():
 
 
 def deber():
-    pass
+    print("Debiendo")
 
 
 def robar():
